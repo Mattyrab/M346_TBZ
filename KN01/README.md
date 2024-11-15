@@ -39,8 +39,16 @@ CPU INFO
 ![CPU INFO](<Screenshot 2024-11-15 152507.png>)
 <br><br>
 
+CPU Warnung
+![Not_Enoug_Cores](<Screenshot 2024-11-15 155323.png>)
+<br><br>
+
 RAM INFO
 ![RAM INFO](<Screenshot 2024-11-15 152728.png>)
+<br><br>
+
+RAM Warnung
+![Not_Enoug_RAM](<Screenshot 2024-11-15 155247.png>)
 <br><br>
 
 ### Virtual System Information
