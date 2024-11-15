@@ -22,3 +22,23 @@ Der Typ-2-Hypervisor verhandelt mit dem Betriebssystem, um die zugrunde liegende
 | Kann sie über dedizierte <br> Ressourcen verhandeln? | Ja | Nein |
 | Erforderliche Kenntnisse | Systemadministrator-Ebene. | Grundlegende Benutzerkenntnisse. |
 | Beispiele | VMware ESXi, Microsoft Hyper-V, KVM | Oracle VM VirtualBox, VMware Workstation, <br> Microsoft Virtual PC |
+
+## Virtualisierungssoftware
+
+### Host System Information
+- OS: Windows 11
+- OS Version: 23H2
+- RAM: 32GB
+- SSD: 952GB, davon frei: 472GB
+- CPU: AMD Ryzen 7 7840U w/ Radeon 780M Graphics
+- CPU Core Anzahl: 8
+- CPU Thread Anzahl: 16
+
+
+### Virtual System Info
+- Virtual Hypervisor: VMWare Workstation
+- OS: Ubuntu
+- OS Version 22.04.3
+- RAM: 16GB
+- SSD: 200GB, davon frei: 12.5GB
+- CPU Core Anzahl: 4
