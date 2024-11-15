@@ -33,12 +33,24 @@ Der Typ-2-Hypervisor verhandelt mit dem Betriebssystem, um die zugrunde liegende
 - CPU: AMD Ryzen 7 7840U w/ Radeon 780M Graphics
 - CPU Core Anzahl: 8
 - CPU Thread Anzahl: 16
+<br><br>
 
+CPU INFO
+![CPU INFO](<Screenshot 2024-11-15 152507.png>)
+<br><br>
 
-### Virtual System Info
+RAM INFO
+![RAM INFO](<Screenshot 2024-11-15 152728.png>)
+<br><br>
+
+### Virtual System Information
 - Virtual Hypervisor: VMWare Workstation
 - OS: Ubuntu
 - OS Version 22.04.3
 - RAM: 16GB
 - SSD: 200GB, davon frei: 12.5GB
 - CPU Core Anzahl: 4
+<br><br>
+
+Virtual OS INFO
+![alt text](<Screenshot 2024-11-15 153003.png>)
