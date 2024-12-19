@@ -1,8 +1,8 @@
-# Cloud-init und AWS
-
-![Instance details](<Screenshot 2024-12-13 130444.png>)
+# KNO4: Cloud-init und AWS
 
 ## SSH-Key und Cloud-init
+
+![Instance details](<Screenshot 2024-12-13 130444.png>)
 
 Falsche Schlüssel verwendet.
 ![Login Fail](<Screenshot 2024-12-13 130712.png>)
