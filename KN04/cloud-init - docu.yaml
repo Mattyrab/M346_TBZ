@@ -1,0 +1,15 @@
+#cloud-config
+users: # Benutzer Konfiguration
+  - name: ubuntu # Name der Benutzer
+    sudo: ALL=(ALL) NOPASSWD:ALL # Regeln für sudo
+    groups: users, admin # Gruppen, zu denen der Benutzer gehört
+    home: /home/ubuntu # Pfad von der Benutzer Ordner
+    shell: /bin/bash # Welche Shell der Benutzer verwendet
+    ssh_authorized_keys: # Liste der autorisierten SSH-Schluessel
+      - ssh-rsa [EXTRACT FROM PEM FILE] aws-key       
+ssh_pwauth: false # Passwort verlangen beim Einloggen ueber SSH
+disable_root: false # verhindert die Faehigkeit, sich als root anzumelden
+package_update: true # Ermoeglicht die Aktualisierung von Paketen
+packages: # Liste der zu installierenden Pakete
+  - curl 
+  - wget 
