@@ -1,4 +1,4 @@
-# KNO4: Cloud-init und AWS
+# KN04: Cloud-init und AWS
 
 ## SSH-Key und Cloud-init
 
