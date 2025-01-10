@@ -1,8 +1,8 @@
-# Cloud-init und AWS
-
-![Instance details](<Screenshot 2024-12-13 130444.png>)
+# KN04: Cloud-init und AWS
 
 ## SSH-Key und Cloud-init
+
+![Instance details](<Screenshot 2024-12-13 130444.png>)
 
 Falsche Schlüssel verwendet.
 ![Login Fail](<Screenshot 2024-12-13 130712.png>)
@@ -28,4 +28,3 @@ Richtige Schlüssel verwendet (eigene gesetzt im user-data).
 
 Eingeloggt im DB durch der Browser
 ![DB in Browser](<Screenshot 2024-12-19 105707.png>)
-    
