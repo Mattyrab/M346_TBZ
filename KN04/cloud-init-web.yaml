@@ -24,9 +24,9 @@ write_files:
 - path: /var/www/html/db.php
   content: |
     <?php
-        $servername = "127.0.0.1";
+        $servername = "172.31.32.30";
         $username = "admin";
-        $password = "pw";
+        $password = "mysecretpw123";
         $dbname = "mysql";
 
         $conn = new mysqli($servername, $username, $password, $dbname);
@@ -54,7 +54,6 @@ write_files:
     </html>
 
 runcmd:
-- sudo cp ./m346scripts/KN03/*.php /var/www/html/
 - sudo a2enconf adminer
 - sudo systemctl restart apache2
 - sudo ufw allow 80/tcp

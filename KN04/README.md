@@ -28,3 +28,4 @@ Richtige Schlüssel verwendet (eigene gesetzt im user-data).
 
 Eingeloggt im DB durch der Browser
 ![DB in Browser](<Screenshot 2024-12-19 105707.png>)
+    
