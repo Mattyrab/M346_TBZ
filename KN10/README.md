@@ -42,5 +42,25 @@ Hier ist es recht klar, da der Zoho jährlich pro Benützer nur 23 Euro kostet, 
 ### Kosten
 Beachten Sie auch mögliche Kosten, die nicht in den Kalkulatoren abgedeckt sind. Wieso sind die Kosten unterschiedlich? Sind die Unterschiede gerechtfertigt?
 
+Die Kosten sind abhängig, von viele Resourcen und Systeme der Anbieter verwalten muss.
+
+Als Beispiel muss man bei IaaS die Containers, Instanzen, und Applikation selber pflegen, dafür bezählt viel weniger im Vergeich zur andere Services wie FaaS und SaaS.
+
+Die selber Pflegung diese Resourcen und Systemen sind auch Kosten, die mit Berechnet muss, bevor man sich für ein IaaS Anbieter entscheidet. Es braucht auch zusätzliche Arbeieter, die sich mit solche Systeme auseinandersetzen können.
+
+Bei SaaS wird der Applikation komplett von der Anbieter gepflegt und verwaltet. Aufgrund diese wird der Preis anders behandelt. Man zählt also pro Benützer pro Monat / Jahr, um der Software zu verwenden. Dieses kostet jedoch sehr viel.
+
+Die Abbildung unten zeigt die Unterschiede am Besten.
+
+![Service Models](Servicemodelle.png)
+
 ### Aufwand für Ihre Firma
-Welche Arbeit müssten Sie als Firma in die verschiedenen Migrationsvarianten investieren
+Welche Arbeit müssten Sie als Firma in die verschiedenen Migrationsvarianten investieren.
+
+Dies hängt vor allem davon ab, ob die zugrunde liegenden Systeme, die der Dienst bereitstellt, mit den zu migrierenden Systemen und Ressourcen kompatibel sind.
+
+Sollte das nicht der Fall sein, muss man viel Arbeit leisten, um der Migration durchzuführen.
+
+Refactoring ist die aufwendigste davon.
+
+Im Gegenteil, Repurchasing, also mit SaaS, ist am einfachste, da man praktisch nichts migrieren muss. Es wird alles von der Anbieter behandelt.
