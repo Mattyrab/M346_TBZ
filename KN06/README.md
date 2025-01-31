@@ -51,3 +51,5 @@ Schritte:
 
 ## Horizontale Skalierung
 
+### Swagger mit Loadbalancer
+![Swagger with Loadbalancer URL](<Screenshot 2025-01-31 152526.png>)
